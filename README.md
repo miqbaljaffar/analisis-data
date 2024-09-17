@@ -8,7 +8,7 @@ Submission ini bertujuan untuk menganalisis data E-Commerce Public Dataset sebag
 
 - **/Dataset**: Berisi file data dalam format .csv yang digunakan untuk analisis.
 - **/Dashboard**: Berisi file `app.py` yang digunakan untuk membuat dashboard hasil analisis data.
-- **SUBMISSION ANALISIS DATA.ipynb**: File Jupyter Notebook yang digunakan untuk melakukan analisis data.
+- **Notebook.ipynb**: File Jupyter Notebook yang digunakan untuk melakukan analisis data.
 
 ## Setup Environment
 
